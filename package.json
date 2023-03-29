@@ -1,0 +1,11 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "main": "index.tsx",
+  "repository": "https://github.com/marcosjacinto/learn-react",
+  "author": "marcos",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
